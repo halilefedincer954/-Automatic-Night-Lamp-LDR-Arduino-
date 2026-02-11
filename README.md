@@ -28,7 +28,7 @@ Digital Pin 2 ---- 220Ω ---- LED ---- GND
 
 ## 📷 Circuit Image
 
-![Circuit Image] 📷 Circuit Image.png
+![Circuit Image] Circuit Image.png
 
 
 ## 💻 Arduino Code
