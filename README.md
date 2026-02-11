@@ -28,7 +28,7 @@ Digital Pin 2 ---- 220Ω ---- LED ---- GND
 
 ## 📷 Circuit Image
 
-![Circuit Image](📷 Circuit Image.png)
+![Circuit Image] https://github.com/halilefedincer954/-Automatic-Night-Lamp-LDR-Arduino-/blob/main/%F0%9F%93%B7%20Circuit%20Image.png
 
 
 ## 💻 Arduino Code
