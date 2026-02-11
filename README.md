@@ -26,6 +26,11 @@ LED Connection:
 
 Digital Pin 2 ---- 220Ω ---- LED ---- GND
 
+## 📷 Circuit Image
+
+![Circuit Image](circuit.jpg)
+
+
 ## 💻 Arduino Code
 
 ```cpp
