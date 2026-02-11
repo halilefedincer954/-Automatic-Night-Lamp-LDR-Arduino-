@@ -16,6 +16,10 @@ When it becomes bright, the LED turns OFF.
 - Breadboard
 - Jumper wires
 
+- ## 📷 Circuit Image
+
+![Circuit Image] Circuit Image.png
+
 ## ⚡ Circuit Connection
 
 Voltage Divider Setup:
@@ -25,11 +29,6 @@ Voltage Divider Setup:
 LED Connection:
 
 Digital Pin 2 ---- 220Ω ---- LED ---- GND
-
-## 📷 Circuit Image
-
-![Circuit Image] Circuit Image.png
-
 
 ## 💻 Arduino Code
 
